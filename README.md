@@ -1,4 +1,10 @@
-### Hiii 😄
+# Hii, I'm Thalia 🐳
+
+*I was a Computer Science (& dance minor) student at the University of Central Florida but am now a New Grad!!* 🥳
+
+*Aspiring Software Engineer at ( ... pending... )*
+
+## **A little bit more about me:**
 
 <!--
 **ThaliaLa/ThaliaLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
