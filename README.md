@@ -5,7 +5,7 @@
 *I am a current aspiring iOS Software Engineer(:*
 
 ## **A little bit more about me:**
-- 🔭 I’m currently working on redesigning Adventour- an originally web app Hackathon idea turned into an iOS application. This is an itinerary based application that enables users to plan and find hidden gems in new places while also glamorizing cities for those local to it. Currently it's UI/UX could use some work and since I now have professional iOS experience, it's getting a complete rewrite structurally as well as appearance-wise
+- 🔭 I’m currently working on redesigning Adventour- an original web app Hackathon idea turned into an iOS application. This is an itinerary-based application that enables users to plan and find hidden gems in new places while also glamorizing cities for those local to it. Currently, it's UI/UX could use some work and since I now have iOS experience, it's getting a complete rewrite structurally as well as appearance-wise
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a twin! 
 
